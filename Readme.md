@@ -1,4 +1,4 @@
-# 📂 End-of-Month Repository
+# 📂 End-of-Month Repository-
 
 이 저장소는 **매월 마감 자료 공유용 저장소**입니다.  
 2014년부터 현재까지의 연도별 폴더와 관련 문서를 정리하여 관리합니다.  
